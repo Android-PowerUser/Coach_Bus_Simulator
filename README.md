@@ -1,5 +1,5 @@
 ## Coach Bus Simulator 2.6.0 Mod
-<img src="https://play-lh.googleusercontent.com/fw8hI4XdzFYpKlDSDx_9laf2hWiybBrz-DSARdNLOrjlg38qSG1RxX_1rFUZd5imwYUdFSIiNL4qHQmTpoHvq5c=w480-h960-rw" alt="" width="141"/>
+<img src="https://github.com/Android-PowerUser/Coach_Bus_Simulator_Mod/blob/main/unnamed.webp" alt="" width="141"/>
 
 ### • Added 9th and 10th gears.
 
