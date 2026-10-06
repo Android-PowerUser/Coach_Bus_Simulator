@@ -1,16 +1,18 @@
 ## Coach Bus Simulator 2.6.0 Mod
-• Added 9th and 10th gears.
+<img src="https://play-lh.googleusercontent.com/fw8hI4XdzFYpKlDSDx_9laf2hWiybBrz-DSARdNLOrjlg38qSG1RxX_1rFUZd5imwYUdFSIiNL4qHQmTpoHvq5c=w480-h960-rw" alt="" width="141"/>
 
-• Reverse gear has a longer gear ratio.
+### • Added 9th and 10th gears.
 
-• Buses have 50% more grip.
+### • Reverse gear has a longer gear ratio.
 
-• It's always sunny and bright now.
+### • Buses have 50% more grip.
 
-• The panes are completely transparent because the splendor of the color was darkened if it will looked out.
+### • It's always sunny and bright now.
 
-• Steering smoother at high speeds.
+#### • The panes are now completely transparent because the splendor of the color was darkened if it will looked out.
 
-• NPCs are now 50% faster and brake less when cornering.
+### • Steering smoother at high speeds.
 
-• You can now always choose all cities in the route selection.
+### • NPCs are now 50% faster and brake less when cornering.
+
+### • You can now always choose all cities in the route selection.
