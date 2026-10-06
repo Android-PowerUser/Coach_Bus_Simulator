@@ -11,8 +11,8 @@
 
 #### • The panes are now completely transparent because the splendor of the color was darkened if it will looked out.
 
-### • Steering smoother at high speeds.
+#### • Steering smoother at high speeds.
 
-### • NPCs are now 50% faster and brake less when cornering.
+#### • NPCs are now 50% faster and brake less when cornering.
 
-### • You can now always choose all cities in the route selection.
+#### • You can now always choose all cities in the route selection.
